@@ -16,4 +16,7 @@ This Data analysis is to generate the insight in Social media, Art and Entertain
 ```
 ![](OIP.jfif)
 
-```
+
+| HEADING1| HEADING2 | HEADING3|
+|---------|----------|---------|
+| Data 1  | Data 2   | Data 3  |
