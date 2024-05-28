@@ -14,3 +14,6 @@ This Data analysis is to generate the insight in Social media, Art and Entertain
  SELECT* FROM TABLE 1
  WHERE CONDITION= MET
 ```
+![](OIP.jfif)
+
+```
